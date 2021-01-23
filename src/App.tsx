@@ -19,8 +19,8 @@ export default function App() {
         return messaging.getToken();
       })
       .then((token: string) => {
-        alert(token);
-        prompt("token", token);
+        // alert(token);
+        // prompt("token", token);
         console.log("token", token);
       })
       .catch((err: any) => console.log("error", err));
