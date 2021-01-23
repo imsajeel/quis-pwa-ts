@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Link
 
-Open [http://quiz-pwa-tsx.surge.sh](http://quiz-pwa-tsx.surge.sh)
+Open [https://quiz-pwa-tsx.surge.sh](https://quiz-pwa-tsx.surge.sh)
 
 ## Available Scripts
 
